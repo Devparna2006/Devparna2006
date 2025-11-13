@@ -28,7 +28,6 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devparna2006&show_icons=true&theme=tokyonight" alt="Devparna's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devparna2006&theme=tokyonight" alt="Devparna's GitHub streaks" />
 </p>
 
 ---
