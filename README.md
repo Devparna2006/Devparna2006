@@ -53,7 +53,7 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/devparna-panigrahi-b4b135329">
+  <a href="https://www.linkedin.com/in/devparna-panigrahi-b4b135329">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Devparna2006">
