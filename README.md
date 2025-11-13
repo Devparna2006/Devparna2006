@@ -1,6 +1,6 @@
 <!-- Devparna2006's Profile README -->
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FF6EC7&center=true&vCenter=true&lines=Hi+there,+ I'm +Devparna+ Panigrahi 👋 "alt="Typing Animation"/></h1>
+<h1 align="center">< Hi there, I'm Devparna Panigrahi 👋 </h1>
 
 <p align="center">
   🌱 Currently working on <b>myself</b><br>
