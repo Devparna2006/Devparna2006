@@ -1,6 +1,6 @@
 <!-- Devparna2006's Profile README -->
 
-<h1 align="center">< Hi there, I'm Devparna Panigrahi 👋 </h1>
+<h1 align="center"> Hi there, I'm Devparna Panigrahi 👋 </h1>
 
 <p align="center">
   🌱 Currently working on <b>myself</b><br>
