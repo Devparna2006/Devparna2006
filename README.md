@@ -3,25 +3,22 @@
 <h1 align="center">Hi, I'm Devparna Panigrahi 👋</h1>
 <h3 align="center">Frontend Developer| Aspiring Data Scientist</h3>
 
-<p align="center">
-  🌱 Currently working on <b>myself</b><br>
-  💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
-  🎯 Goal: To build meaningful projects that make life easier<br>
-</p>
 
 ---
 
 ### 🪄 About Me
 - 🧠 Always curious and learning something new in **tech & creativity**
+- 🌱 Currently working on <b>myself</b><br>
+- 💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
+- 🎯 Goal: To build meaningful projects that make life easier<br>
 - 💬 Ask me about **JavaScript, C, or Front-end development**
-- 🌍 Based in India
 - 💌 Connect with me on [LinkedIn](https://www.linkedin.com/in/devparna-panigrahi-b4b135329)
 
 ---
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,git,github,vscode" />
 </p>
 
 ---
@@ -44,11 +41,7 @@
 ---
 
 ### 🎨 Fun Extras
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
-</p>
-
-> _“Every line of code is a step towards a better me.”_
+> _“Learing every day, building my future.”_
 
 ---
 
