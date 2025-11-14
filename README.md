@@ -1,8 +1,8 @@
 <!-- Devparna2006's Profile README -->
 
-<h1 align="center"> Hi there, I'm Devparna Panigrahi 👋 </h1>
-<h3 align="center">Fromtend Developer| Aspiring Data Scientist</h3>
----
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Devparna+Panigrahi 👋></h1>
+<h3 align="center">Frontend Developer| Aspiring Data Scientist</h3>
+
 <p align="center">
   🌱 Currently working on <b>myself</b><br>
   💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
