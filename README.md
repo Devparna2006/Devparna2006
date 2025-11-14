@@ -6,7 +6,7 @@
 
 ---
 
-### 🪄 About Me
+### 💫 About Me
 - 🧠 Always curious and learning something new in **tech & creativity**
 - 🌱 Currently working on <b>myself</b><br>
 - 💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
