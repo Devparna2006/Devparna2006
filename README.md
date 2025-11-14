@@ -1,7 +1,8 @@
 <!-- Devparna2006's Profile README -->
 
 <h1 align="center"> Hi there, I'm Devparna Panigrahi 👋 </h1>
-
+<h3 align="center">Fromtend Developer| Aspiring Data Scientist</h3>
+---
 <p align="center">
   🌱 Currently working on <b>myself</b><br>
   💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
@@ -19,7 +20,7 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,vscode" />
 </p>
 
