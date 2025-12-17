@@ -29,8 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devparna2006&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Devparna2006&theme=radical&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devparna2006&layout=compact&theme=radical" />
