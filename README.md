@@ -54,11 +54,5 @@
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
----
 
-👀 **Profile Views**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
