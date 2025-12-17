@@ -1,7 +1,7 @@
 <!-- Devparna2006's Profile README -->
 
 <h1 align="center">Hi, I'm Devparna Panigrahi 👋</h1>
-<h3 align="center">Frontend Developer| Aspiring Data Scientist</h3>
+<h3 align="center">Frontend Developer|  Aspiring Software Developer</h3>
 
 
 ---
@@ -9,9 +9,9 @@
 ### 💫 About Me
 - 🧠 Always curious and learning something new in **tech & creativity**
 - 🌱 Currently working on <b>myself</b><br>
-- 💻 Exploring the world of <b>Web Development & Problem Solving</b><br>
+- 💻 Exploring and continuously improving my programming and problem-solving skills.><br>
 - 🎯 Goal: To build meaningful projects that make life easier<br>
-- 💬 Ask me about **JavaScript, C, or Front-end development**
+- 💬 I have basic knowledge of HTML, CSS, Python, Java, C, and JavaScript, and I am currently in the learning phase of Python, Java, and JavaScript
 - 💌 Connect with me on [LinkedIn](https://www.linkedin.com/in/devparna-panigrahi-b4b135329)
 
 ---
@@ -54,3 +54,11 @@
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
+---
+
+👀 **Profile Views**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
