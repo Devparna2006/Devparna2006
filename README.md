@@ -23,18 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devparna2006&show_icons=true&theme=tokyonight" alt="Devparna's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devparna2006&layout=compact&theme=radical" />
-</p>
-
-
----
-
 ### 🌟 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
